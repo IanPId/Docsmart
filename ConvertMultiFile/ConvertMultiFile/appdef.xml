@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application
+			type="server-application"
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:noNamespaceSchemaLocation="http://www.m-files.com/schemas/appdef-server-v1.xsd">
+  <guid>8680bb58-2ad8-4e26-ae44-28c8e1a0d60c</guid>
+  <name>ConvertMultiFile</name>
+  <description>ConvertMultiFile</description>
+  <publisher></publisher>
+  <version>1.0.0.2</version>
+  <copyright></copyright>
+  <extension-objects>
+    <extension-object>
+      <name>ConvertMultiFile</name>
+      <assembly>ConvertMultiFile.dll</assembly>
+      <class>ConvertMultiFile.VaultApplication</class>
+      <installation-method>Install</installation-method>
+      <uninstallation-method>Uninstall</uninstallation-method>
+      <initialization-method>Initialize</initialization-method>
+      <uninitialization-method>Uninitialize</uninitialization-method>
+      <start-operations-method>StartOperations</start-operations-method>
+    </extension-object>
+  </extension-objects>
+</application>
