@@ -1,9 +1,9 @@
 # Application details
 $appFilePath = "bin\Debug\Projects.mfappx"
-$appGuid = "9f66b1d8-59f4-444a-89e8-ea2a4b6b371c"
+$appGuid = "1979a234-7cdb-4b47-9772-6783d026b110"
 
 # Target vault
-$vaultName = "Sample Vault"
+$vaultName = "Test-Docsmart Project"
 
 # Connection details 
 $authType = 1 # 1 = MFAuthTypeLoggedOnWindowsUser

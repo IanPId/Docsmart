@@ -3,11 +3,11 @@
 			type="server-application"
 			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 			xsi:noNamespaceSchemaLocation="http://www.m-files.com/schemas/appdef-server-v1.xsd">
-  <guid>9f66b1d8-59f4-444a-89e8-ea2a4b6b371c</guid>
+  <guid>349dce72-66b8-4399-b1d7-3c3937b72aca</guid>
   <name>Projects</name>
   <description></description>
   <publisher></publisher>
-  <version>0.1</version>
+  <version>0.1.12</version>
   <copyright></copyright>
   <extension-objects>
     <extension-object>
